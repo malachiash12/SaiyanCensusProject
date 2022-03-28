@@ -1,0 +1,1 @@
+Progress on the Project up until the creation of the entity class
